@@ -19,12 +19,6 @@ You will need [Python 3.11](https://www.python.org/downloads) and the packages s
 We recommend setting up a [virtual environment with pip](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 and installing the packages there.
 
-Install packages with:
-
-```
-$ pip install -r requirements.txt
-```
-
 ## Data
 The XJTU-SY dataset can be downloaded from (https://github.com/WangBiaoXJTU/xjtu-sy-bearing-datasets)
 
